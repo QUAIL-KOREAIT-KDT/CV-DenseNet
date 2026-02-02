@@ -627,22 +627,6 @@ Grad-CAM 시각화는 DenseNet 아키텍처가 다음을 수행함을 보여줍�
 
 ---
 
-## 인용
-
-본 연구를 사용하실 경우 다음과 같이 인용해 주시기 바랍니다:
-
-```bibtex
-@article{lung_cancer_densenet_2024,
-  title={DenseNet과 ResNet 아키텍처의 폐암 분류 성능 비교 연구},
-  author={Your Name},
-  journal={GitHub Repository},
-  year={2024},
-  url={https://github.com/yourusername/lung-cancer-classification}
-}
-```
-
----
-
 ## KDT-Team Project
 
 Team : QUAIL (Query Unique Augmented Intelligence Lab)
